@@ -65,8 +65,8 @@ gitalk:
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  owner: Super-Bill    #github用户名
+  admin: Super-Bill
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -93,22 +93,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# Friends
-friends: [
-    {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
-    },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
-    }
-]
